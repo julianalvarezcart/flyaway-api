@@ -1,5 +1,0 @@
-Passenger: Ana Torres
-Flight: AA2061
-Departure: 2027-06-01T10:00:00
-Arrival: 2027-06-01T14:00:00
-Booking Date: 2026-09-30T19:34:45.6353559

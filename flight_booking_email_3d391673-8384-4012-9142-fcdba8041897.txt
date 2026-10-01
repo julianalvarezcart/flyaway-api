@@ -1,5 +1,0 @@
-Passenger: Ana Torres
-Flight: OA7332
-Departure: 2027-09-01T08:00:00
-Arrival: 2027-09-01T12:00:00
-Booking Date: 2026-09-30T19:33:13.2949512
